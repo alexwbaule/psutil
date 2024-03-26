@@ -44,6 +44,8 @@ Github usernames of people to CC on github when in need of help.
     - alxchk, Oleksii Shevchuk
 - AIX:
     - wiggin15, Arnon Yaari (maintainer)
+- wheels / packaging / CI matrix:
+    - mayeut, Matthieu Darbois
 
 Top contributors
 -------------------------------------------------------------------------------
@@ -765,7 +767,7 @@ I: 1598
 
 N: Xuehai Pan
 W: https://github.com/XuehaiPan
-I: 1948
+I: 1948, 2264
 
 N: Saeed Rasooli
 W: https://github.com/ilius
@@ -781,7 +783,7 @@ I: 1956
 
 N: Matthieu Darbois
 W: https://github.com/mayeut
-I: 2039, 2142, 2147, 2153, 2040, 2102, 2216
+I: 2039, 2142, 2147, 2153, 2040, 2102, 2216, 2246, 2252
 
 N: Hugo van Kemenade
 W: https://github.com/hugovk
@@ -808,8 +810,24 @@ I: 2077, 2160
 
 N: Amir Rossert
 W: https://github.com/arossert
-I: 2156
+I: 2156, 2345
 
 N: Lawrence D'Anna
 W: https://github.com/smoofra
 I: 2010
+
+N: Oliver Tomé
+W: https://github.com/snom3ad
+I: 2222
+
+N: Ryan Carsten Schmidt
+W: https://github.com/ryandesign
+I: 2361, 2365
+
+N: Shade Gladden
+W: https://github.com/shadeyg56
+I: 2376
+
+N: Anthony Ryan
+W: https://github.com/anthonyryan1
+I: 2272

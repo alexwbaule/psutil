@@ -51,6 +51,7 @@
 #include <arpa/inet.h>
 #include <net/if.h>
 #include <math.h> // fabs()
+#include <unistd.h>
 
 #include "_psutil_common.h"
 #include "_psutil_posix.h"
@@ -1659,6 +1660,7 @@ PsutilMethods[] = {
     {"users", psutil_users, METH_VARARGS},
 
     // --- others
+    {"check_pid_range", psutil_check_pid_range, METH_VARARGS},
     {"set_debug", psutil_set_debug, METH_VARARGS},
 
     {NULL, NULL, 0, NULL}
